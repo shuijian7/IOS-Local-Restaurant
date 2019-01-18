@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14135" systemVersion="17F77" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Category" representedClassName=".Category" syncable="YES" codeGenerationType="category">
+        <attribute name="cost" attributeType="Float" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="letter" attributeType="String" syncable="YES"/>
+        <attribute name="name_food" attributeType="String" syncable="YES"/>
+        <relationship name="tomenu" maxCount="1" deletionRule="Nullify" destinationEntity="Menu" inverseName="tocategory" inverseEntity="Menu" syncable="YES"/>
+        <fetchIndex name="byletterIndex">
+            <fetchIndexElement property="letter" type="Binary" order="ascending"/>
+        </fetchIndex>
+    </entity>
+    <entity name="Menu" representedClassName=".Menu" syncable="YES" codeGenerationType="category">
+        <attribute name="category" attributeType="String" syncable="YES"/>
+        <relationship name="tocategory" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Category" inverseName="tomenu" inverseEntity="Category" syncable="YES"/>
+        <relationship name="torestaurant" maxCount="1" deletionRule="Nullify" destinationEntity="Restaurant" inverseName="tomenu" inverseEntity="Restaurant" syncable="YES"/>
+        <fetchIndex name="bycategoryIndex">
+            <fetchIndexElement property="category" type="Binary" order="ascending"/>
+        </fetchIndex>
+    </entity>
+    <entity name="Restaurant" representedClassName=".Restaurant" syncable="YES" codeGenerationType="category">
+        <attribute name="address" attributeType="String" syncable="YES"/>
+        <attribute name="category_restaurant" attributeType="String" syncable="YES"/>
+        <attribute name="image" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="longtitude" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="name" attributeType="String" syncable="YES"/>
+        <attribute name="phone" attributeType="String" syncable="YES"/>
+        <relationship name="tomenu" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Menu" inverseName="torestaurant" inverseEntity="Menu" syncable="YES"/>
+        <fetchIndex name="bycategory_restaurantIndex">
+            <fetchIndexElement property="category_restaurant" type="Binary" order="ascending"/>
+        </fetchIndex>
+    </entity>
+    <elements>
+        <element name="Category" positionX="9" positionY="54" width="128" height="105"/>
+        <element name="Menu" positionX="-18" positionY="27" width="128" height="90"/>
+        <element name="Restaurant" positionX="-45" positionY="0" width="128" height="165"/>
+    </elements>
+</model>

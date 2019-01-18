@@ -1,0 +1,6961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>latitude</key>
+		<real>44.04528</real>
+		<key>longtitude</key>
+		<real>-123.079811</real>
+		<key>image</key>
+		<string>chinese kitchen 1</string>
+		<key>restaurant_category</key>
+		<string>Chinese</string>
+		<key>name</key>
+		<string>Chinese Kitchen</string>
+		<key>address</key>
+		<string>830 East 13th Avenue</string>
+		<key>phone</key>
+		<string>1-541686-8788</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Appetizer</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Egg rolls</string>
+						<key>letter</key>
+						<string>E</string>
+						<key>cost</key>
+						<real>4.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pot Sticker</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Green Onion Pancake</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>4.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>House Special Cucumber Salad</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chongxing Special Chicken</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>7.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Bean Jelly w/Spicy Sauce</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>4.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Popcorn Chicken</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Soup</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Small Hot &amp; Sour Soup</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>2.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Large Hot &amp; Sour Soup</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Small Corn Egg Drop Soup</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>2.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Large Corn Egg Drop Soup</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tomato &amp; Fried Egg Soup</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hog Hoof Soup</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Nourshing Lamb Stew</string>
+						<key>letter</key>
+						<string>N</string>
+						<key>cost</key>
+						<real>18.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chili Lamb Stew</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>18.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chengdu Steampot w/ Meat</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>16.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chengdu Steampot w/ Vegetabel</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Noodles</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Beef Noodle Vemicelli w/ Pickled Vegetable</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chongqing Style Spicy Noodle Soup</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>8.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Braised Beef Noodle Soup</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Braised Beef Rice Noodle Soup</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Beef Noodle Soup w/ Clear Broth</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Wonton Tossed in Chicken Broth</string>
+						<key>letter</key>
+						<string>W</string>
+						<key>cost</key>
+						<real>7.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chili Oil Wonton</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>7.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chili Oil Dumpling</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>7.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hot &amp; Sour Vermicelli Soup</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>7.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Crispy Pancake Beef Roll W/ Cilantro</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>9.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tomato &amp; Fried Egg Soup W/ Noodle</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>9.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Seafood Wonton Pot W/ Chili Oil</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>14.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Seafood Wonton Pot W/ Chili Oil</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>14.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Steamed Bun Stuffed W/ Soy Sauce Pork</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>2</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Dessert</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Fried Rice Jelly W/ Black Sugar</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>7.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Steamed &amp; Fried Buns W/ Concentrated Milk</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>7.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Ice Jelly W/ Black Sugar</string>
+						<key>letter</key>
+						<string>I</string>
+						<key>cost</key>
+						<real>4.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sesame Pumpkin Pancake</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Rice Dumpling W/ Fermented Rice Soup</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Griddle W/ Cooked Foods</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Griddle Pot W/ Pork Ribs</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>17.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Griddle Cooked Chicken Cartilage</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Griddle Cooked Beef</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>18.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Griddle Cooked Chicken Wing Boneless</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>18.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Griddle Pot W/ Chicken Wings</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>17.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Griddle Pot W/ Cauliflower</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Griddle Pot W/ Intestine</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>17.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Chicken</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Kung-Pao Chicken</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>General Taos Chicken</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sesame Chicken</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Szechuan Chicken</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken W/ Broccoli</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Boiled Chicken W/ Chili Oil</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chongoing Style Fried Spicy Chicken</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>16.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Toro Roost Chicken</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>17.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Beef</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Mogolian Beef</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir Fried Beef W/ Onion</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Beef W/ Broccoli</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Boiled Beef W/ Chili Oil</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>16</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir Fried Beef W/ Cilantro</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Shrimp</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Kung-Pao Shrimp</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shrimp W/ Garlic Sauce</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>14.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Brocolli Shrimp</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir Fried Shrimp W/ Vegetables</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>14.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shui-Chu Shrimp</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>17.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Seafood Tofu In Pot</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>17.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Pork</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Shredded Pork W/ Garlic Sauce</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shredded Pork W/ Beijing Brown Sauce</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>16.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Szechuan Style Twice Cooked Pork</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Maos Style Braised Pork Belly</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shredded Pork W/ Pickled Vegetables</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pork W/ Preserved Vegetable</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>BBQ Pork Ribs</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>17.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Beauty Hoof</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>16.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Fish</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Steamed Whole Fish W/ Soft Tofu</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Whole Fish W/ Soft Tofu</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fish Filet W/ Pickled Vegetables</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>16.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Boiling Filets</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>16.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Diced Fish W/ Corn</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>14.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sweet Sour Fish Filet</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>16.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Quick Fried Crispy Fish</string>
+						<key>letter</key>
+						<string>Q</string>
+						<key>cost</key>
+						<real>16.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Vegetable</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Crab Meat Salted Egg Yolk W/ Soft Tofu</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mapo Tofu</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir Fried Egg W/ Tomato</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir Fried Shredded Potato W/ Pickled Vegetable</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir Fried Shredded Potato W/ Vinegar</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir Fried Shredded Cabbage</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Eggplant W/ Garlic Sauce</string>
+						<key>letter</key>
+						<string>E</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Eggplant W/ Garlic Sauce</string>
+						<key>letter</key>
+						<string>E</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chinese Napa Cabbage W/ Chicken Sauce</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir Fired Mixed Vegetable</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir Fried Bok-Choy</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Garlic Fried Bok-Choy</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.045737</real>
+		<key>longtitude</key>
+		<real>-123.083132</real>
+		<key>image</key>
+		<string>Lucky Bamboo Campus 1</string>
+		<key>restaurant_category</key>
+		<string>Chinese</string>
+		<key>name</key>
+		<string>Lucky Bamboo Campus</string>
+		<key>address</key>
+		<string>607 East 13th Avenue</string>
+		<key>phone</key>
+		<string>1-541683-8181</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Clay Pot Rice</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Chicken Clay Pot</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>11.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Wings Clay Pot</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>12.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Chicken Wings Clay Pot</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Kung Pao Chicken</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<real>12.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Teriyaki Chicken Clay Pot</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>12.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hainan Chicken Clay Pot</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>15.45</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pork Patty Clay Pot</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>11.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Twice Cooked Pork Clay Pot</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>13.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Braised Pork Clay Pot</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>13.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pork Ribs Clay Pot</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>12.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Pork Ribes Clay Pot</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Pork Ribes Clay Pot</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Lap-Mei Clay Pot</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>13.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Beef Clay Pot</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>12.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Cumin Beef Clay Pot</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stewed Beef Clay Pot</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>13.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Seafood Clay Pot</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>15.45</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Braised Pork Rib Clay Pot</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>14.45</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Teriyaki Beef Clay Pot</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>12.95</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Clay Pot Vermicelli</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Minced Pork Tofu Pot</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>15.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Seafood Tofu Pot</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>16.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tomato Stew Beef Pot</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>17.95</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Steamed Plates</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Steamed Mushroom Chicken</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>16.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Steamed Mushroom Chicken Wings</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>16.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Steamed Chicken Wings</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>16.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Steamed Black Bean Ribs</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>16.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Steamed Pork Ribs</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>16.95</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Other Dishes</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Stewed Beef on Rice</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Braised Pork On Rice</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>12.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Braised Pork Rib On Rice</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>13.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mapo Tofu</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>15.45</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Braised Pork W/ Preserved Vegetables</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>15.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Sauerkraut Fish Soup</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>18.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Steamed Chicken W/ Chili Sauce</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>21.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hainan Chicken</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>21.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Boil Fish</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>21.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Boil Beef</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>21.95</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Side Dishes</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Korean Seaweed</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<real>3.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Oyster Sauce Lettuce</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<real>3.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mung Bean Sweat Soup</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>3.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hongkong Style BBQ Bun</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pork W/ Bamboo Shoot Bun</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shrimp Dumpling</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Lion Head Meatball</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>5.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fried Chicken Wing</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Fried Chicken Wing</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Glutinous Rice Dumpling</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Spicy Soup</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Beef Spicy Soup</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>17.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Beef Tripe Spicy Soup</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>17.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Beef Ball Spicy Soup</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>17.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fish Ball Spicy Soup</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>17.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fish Spicy Soup</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>17.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Seafood Soup</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>18.95</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Congee</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Minced Pork W/ Preserved Egg</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>10</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Congee</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>11</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Beef Congee</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>11</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pork Rib Congee</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>11</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fish Congee</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<integer>11</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shrimp Congee</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Marinated Items</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Marinated Egg</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Marinated Beef Shank</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>15</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Marinated Beef Bellies</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>15</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Marinated Intestines</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Marinated Pork Feete</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>8.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Marinated Chicken Leg</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>9</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Drinks</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Aloe Drink</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<real>2.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>JDB Herbal Drink</string>
+						<key>letter</key>
+						<string>J</string>
+						<key>cost</key>
+						<real>2.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>WangZai Milk</string>
+						<key>letter</key>
+						<string>W</string>
+						<key>cost</key>
+						<real>3.5</real>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.050181</real>
+		<key>longtitude</key>
+		<real>-123.085245</real>
+		<key>image</key>
+		<string>Tasty Chong Qing 1</string>
+		<key>restaurant_category</key>
+		<string>Chinese</string>
+		<key>name</key>
+		<string>Tasty Chong Qing</string>
+		<key>address</key>
+		<string>485 E Broadway</string>
+		<key>phone</key>
+		<string>1-541484-9647</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Chong Qing Traditional Appetizers</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Hot &amp; Sour Sweet Potato Noodle</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sweet Sticky Rice Ball Soup</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Pot Sticker</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>6.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Deep-Fried Small Bun</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>6.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pan-Fried Onion Pan Cake</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>4.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chinese Lamb Hamburger</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>8.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pork &amp; Chive Dumpling</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>6.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Deep-Fried Salt &amp; Pepper Chicken Wings</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>8.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Crispy Pork Spare Ribs</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>8.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pot Sticker</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>7.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Premium Rice Bowl</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Kong Pao Shrimp Rice Bowl</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mushroom Chicken Rice Bowl</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Braised Tofu W/ Shrimp Rice Bowl</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>House Special Entrees</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Bone-in Diced Rabbit Meat With Szechuan Chili Sauce</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>19.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Braised Chicken With Thai Chili Sauce</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>16.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Gelled Fish W/ Hot Pepper &amp; Gumin Sauce</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>19.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir-fried Chicken Gizzard</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>15.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Braised Duck With Taro</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>16.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hot Pepper Crawfish</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>19.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hot Pepper Shrimp</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>17.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Diced Chicken With Hot Peppers</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>14.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir-Fried Pork With Chili-cliantro Sauce</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>14.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Braised Chicken With Pork Ribs</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>16.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Steamed Prawns With Garlic Sauce</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>17.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mao&apos;s Pork</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>14.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Twice Cooked Pork</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir-Fried Pork With Green Chili Pepper</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir-Fried Pork With Dried Bean Curd</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Fried Rice</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Vegetarian Dishes</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Sauteed Sweet Corn With Pine Nuts</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir-Fried Celery With Black Wood Ear Mushroom</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Eggplant With Fish Flavor Sauce</string>
+						<key>letter</key>
+						<string>E</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hot &amp; Sour Shredded Potato</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>9.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stir-Fried Baby Bok Choy With Garlic Sauce</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Drinks</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Honey Grapefruit Juice</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>3.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Jiaduobao Tea</string>
+						<key>letter</key>
+						<string>J</string>
+						<key>cost</key>
+						<real>3</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Ice Red Tea</string>
+						<key>letter</key>
+						<string>I</string>
+						<key>cost</key>
+						<real>3.5</real>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.045405</real>
+		<key>longtitude</key>
+		<real>-123.083515</real>
+		<key>image</key>
+		<string>221 BCE 1</string>
+		<key>restaurant_category</key>
+		<string>Chinese</string>
+		<key>name</key>
+		<string>221 BCE</string>
+		<key>address</key>
+		<string>1301 Patterson St
+</string>
+		<key>phone</key>
+		<string>1-541600-8905</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Appetizer</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Celery Salad</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Minced Garlic Broccoli</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Minced Garlic Cucumber</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fried Peanuts</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Tingly Beef Shank</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>8.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Tingly Beef Tendon</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>8.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Tingly Beef Shank &amp; Tendon</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>8.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy &amp; Tingly Beef Stomach</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Xi&apos;an Braised Chicken</string>
+						<key>letter</key>
+						<string>X</string>
+						<key>cost</key>
+						<real>6.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Xi&apos;an Braised Pork Belly</string>
+						<key>letter</key>
+						<string>X</string>
+						<key>cost</key>
+						<real>6.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Handmande Noodle Dishes</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Biang Biang Noodle(Pork)</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>8.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Biang Biang Noodle(Beef)</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>8.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Biang Biang Noodle(Tomato Fried Eggs)</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>8.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Biang Biang Noodle(Combol Beef and Pork)</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Biang Biang Noodle(Combol Beef, Pork And Tomato Fried Eggs)</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Special</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Stewed Pork Sandwich</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>6.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Cumin Beef Sandwich</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>6.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Cold Rice Noodle</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>6.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Ma Jiang Cold Rice Noodle</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>7.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Beef Pao Mo Soup</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Lamb Pao Mo Soup</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>13.49</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Beef Pao Mo Soup W/ Tomato &amp; Egg</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Lamb Pao Mo Soup W/ Tomato &amp; Egg</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>13.49</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Lamb Soup</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Lamb Soup W/ Handmande Flat Bread</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Big Platter Dishes</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Big Platter Chicken</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>34.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Big Platter Crawfish</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>34.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Big Platter Fish</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>34.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Casseroles</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Spicy Tingly Rice Noodle Casserole</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Tingly Bean Noodle Casserole</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Tingly Biang Biang Noodle Casserole</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.044646</real>
+		<key>longtitude</key>
+		<real>-123.064388</real>
+		<key>image</key>
+		<string>The Taste of India 1</string>
+		<key>restaurant_category</key>
+		<string>Indian</string>
+		<key>name</key>
+		<string>The Taste of India</string>
+		<key>address</key>
+		<string>1365 Villard Street
+</string>
+		<key>phone</key>
+		<string>1-541913-6218</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Indian Breads (Roti)</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Nan</string>
+						<key>letter</key>
+						<string>N</string>
+						<key>cost</key>
+						<real>3.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Butter Nan</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>4.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Methi Nan</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>4.49</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Paneer Nan</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Garlic Nan</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>4.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chili Nan</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>4.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Papadum</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>3.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Tandoori Nazaare</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Tandoori Chicken</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Tikka</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>16.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Bahar-E-Murg</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Chicken Curry</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Makhanwala</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Korma</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Sagwala</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Mushroom</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Vindaloo</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Tikka Masala</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Tikka Masala Sauce W/ Rice</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>7.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Biriyani</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Vegetable Biriyani</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Biriyai</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>14.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Goat Biriyani</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>15.9</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Bahar-E-Sabaz</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Shahi Paneer</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mattar Paneer</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Aloo Mattar</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Aloo Gobhi</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sag Paneer</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Navrattan Korma</string>
+						<key>letter</key>
+						<string>N</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Malai Kofta</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mushroom Mattar</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chana Masala</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Daal Makhni</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Allo Palak</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chana Sag</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mattar Palak</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Indian Beverages</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Mango Lassi</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>3.49</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Masala Tea</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>2.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Roohafza Special</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<real>2.99</real>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.03231</real>
+		<key>longtitude</key>
+		<real>-123.08145</real>
+		<key>image</key>
+		<string>Curry Bowl 1</string>
+		<key>restaurant_category</key>
+		<string>Indian</string>
+		<key>name</key>
+		<string>Curry Bowl</string>
+		<key>address</key>
+		<string>2493 Hilyard Street</string>
+		<key>phone</key>
+		<string>1-541654-8118</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Appetizer</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Onion Pakora</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<real>5.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spinach Pakora</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>5.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hot Chili Pakora</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>5.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mixed Pakora</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>5.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Veggie Samosa</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<real>5.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Lamb Samosa</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>5.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Pakora</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>7.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Vagetable Entrees</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Bhendi Masala</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Bengan Bhartha</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>10.9</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Dal Makhani</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Aloo Gobi</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Palak Paneer</string>
+						<key>letter</key>
+						<string> P</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Navaratan Korma</string>
+						<key>letter</key>
+						<string>N</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mixed Veggie Masala</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Paneer Butter Masala</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>11.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Channa Masala</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>10.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Lamb Entrees</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Lamb Curry</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Lamb Saag</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>13.59</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Lamb Koorma</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Lamb Vindaloo</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Lamb Masala</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>12.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Seafood</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Shrimp Curry</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shrimp Masala</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shrimp Koorma</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>13.99</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Side Orders</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Naan</string>
+						<key>letter</key>
+						<string>N</string>
+						<key>cost</key>
+						<real>2.25</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Garlic Naan</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>3.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Cheese Naan</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>3.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Aloo Paratha</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<real>4.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pooris</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>3.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chapathi</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>3.5</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Beverages</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Sweet Lassi</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>2.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Salt Lassi</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>2.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Masala Chai</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>2.5</real>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.066188</real>
+		<key>longtitude</key>
+		<real>-123.078068</real>
+		<key>image</key>
+		<string>Pastini 1</string>
+		<key>restaurant_category</key>
+		<string>Italian</string>
+		<key>name</key>
+		<string>Pastini</string>
+		<key>address</key>
+		<string>325 Oakway Road</string>
+		<key>phone</key>
+		<string>1-541505-8559</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Antipasti</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Chef&apos;s Board</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>13</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Oven-Roasted Vegetables</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<real>8</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Scampi</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>11</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Baked Artichoke Spread</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>8.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Baked Italian Meatballs</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>8.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Garlic Bread</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>6</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Deep Fried Calamari</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>11</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Penn Cove Clams</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>15</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Meatball Minestrone</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>11</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Bruschetta Classico</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>7.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Deep Fried Shrimp</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>11</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Salad</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Small Field Greens Salad</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Large Field Greens Salad</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>9</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Small Caesar Salad</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Large Caesar Salad</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>9</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Small Tuscan Kale Salad</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Large Tuscan Kale Salad</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>9</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Small Bistro Salad</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Large Bistro Salad</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>10</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Farmstand Chicken Cobb Salad</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>14</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Grilled Asparagus Salad</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>12</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tuna-White Bean Salad</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>13</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Caesar Salad</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>13</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Sandwiches</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Herb-Roasted Pork Sandwich</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>13</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Grilled Portobello</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>12</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fried Chicken Sandwich</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>12</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Meatball Sandwich</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>12</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Pastas</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Spaghetti &amp; Meatballs</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>14</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Braised Short Rib Ravioli</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>16</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pappardelle W/ Meat Sauce Bolognese</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>14.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spaghetti Carbonara</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>15.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Rigatoni W/ Herb-Roasted Pork</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<real>14.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fettuccine Alfredo W/ Chicken</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>13</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Linguini Pesto Polli</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>15.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fusilli Alla Roma</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>15.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Linguini Piccata</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>14.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Linguini Misto Mare</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>16</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Shrimp Fettuccine</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>16.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Linguini With Clams And Sausage</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>16</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spaghetti Con Gamberetti</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>16</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Baked Ziti W/ Italian Sausage</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>14.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Five Cheese Lasagna</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>14.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mac&apos;N Cheese</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>14.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tortellini Al Forno</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>15.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stuffed Shells</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>15.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Capellini Pomodoro</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>12.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tortellini Gorgonzola</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>15.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spaghetti Aglio E Olio</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>8</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Farfalle Siciliano</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>12</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spaghetti Marinara</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>8</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Linguini W/ Basil Pesto</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>11</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fettuccini Alfredo</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>13.5</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Sides</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Roasted Brussels Sprouts</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sauteed Spinach</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>5.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Broccolini</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>6</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Garlic Bread</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>6</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fresh Vegetable Saute</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>7</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Basket of Bread</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>2</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Desserts</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Tiramisu</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>7</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Gluten-Free Tiramisu</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>7</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Lemon Custard Cake</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>7</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chocolate Tartufo</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>7.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Orange Vanilla Panna Cotta</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<real>7</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Beverages</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>San Prlligrino Sparkling Water(250ML)</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>San Pelligrino Sparkling Water(1L)</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>6</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Coke</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>2.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Diet Coke</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>2.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sprite</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>2.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>San Pellegrino Soda</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>3.25</real>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.044671</real>
+		<key>longtitude</key>
+		<real>-123.073986</real>
+		<key>image</key>
+		<string>Falling Sky Pizzeria 1</string>
+		<key>restaurant_category</key>
+		<string>Italian</string>
+		<key>name</key>
+		<string>Falling Sky Pizzeria</string>
+		<key>address</key>
+		<string>1395 University St</string>
+		<key>phone</key>
+		<string>1-541485-1275</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Wings &amp; Things</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Pepperoni &amp; Cheese Bread</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Garlic Bread</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>4.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Monstarella Sticks</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>8</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>O Platter</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<integer>16</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Salad</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Market Salad</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Greek Salad</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<integer>8</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Kale Caesar</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<integer>9</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chef&apos;s Salad</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>10</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Sky to Pie</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Just Say Cheese</string>
+						<key>letter</key>
+						<string>J</string>
+						<key>cost</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Vegan &amp; Loving It</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Emerald City Agate</string>
+						<key>letter</key>
+						<string>E</string>
+						<key>cost</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Gluten Freedom</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Veggie Supreme Pizza</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shroom &amp; Ricotta</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Classic Pepperoni</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>24</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Neo Classic</string>
+						<key>letter</key>
+						<string>N</string>
+						<key>cost</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pesto Chicken</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Butcher Time</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>22</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>BBQ Chicken</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>27</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Flyin Hawaiian</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sausage &amp; Bacons Pizza</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>22</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Gluten Free Just Say Cheese</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<integer>16</integer>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.028064</real>
+		<key>longtitude</key>
+		<real>-123.105743</real>
+		<key>image</key>
+		<string>Bartolotti&apos;s 1</string>
+		<key>restaurant_category</key>
+		<string>Italian</string>
+		<key>name</key>
+		<string>Bartolotti&apos;s</string>
+		<key>address</key>
+		<string>2760 Friendly St</string>
+		<key>phone</key>
+		<string>1-541525-7559</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Tomato Pies</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Traditional Cheese Pizza</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>23</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Bella Roni Pie</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Marge Pie</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Bruschetta Pie</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>BBQ Chicken Pie</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Norma Jean Pie</string>
+						<key>letter</key>
+						<string>N</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Meatopia Pie</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Friendly Street Market Pie</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Zoot Suit Riot Pir</string>
+						<key>letter</key>
+						<string>Z</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Quattro Fromage Pie</string>
+						<key>letter</key>
+						<string>Q</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pestopalooza Pie</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Ricotta &amp; Pesto Pies</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Da Vinci&apos;s Brush Pie</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<integer>27</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tuscany Pie</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>27</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Forager Pie</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<integer>27</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Garden Party Pie</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<integer>27</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Club Med Pie</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>27</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pesto Chicken Pie</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>27</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Classic White Pie</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>27</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Popeye The Sailor Man Pie</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>27</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Stromboli</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Willamette Stromboli</string>
+						<key>letter</key>
+						<string>W</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Moss Crossing Stromboli</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Meatball Parmesan Stomboli</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spencer&apos;s Butte Stromboli</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Refreshments</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Water</string>
+						<key>letter</key>
+						<string>W</string>
+						<key>cost</key>
+						<real>1</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Coke</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>2</real>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.050295</real>
+		<key>longtitude</key>
+		<real>-123.089793</real>
+		<key>image</key>
+		<string>Downtown Noodle Bowl 1</string>
+		<key>restaurant_category</key>
+		<string>Korean</string>
+		<key>name</key>
+		<string>Downtown Noodle Bowl</string>
+		<key>address</key>
+		<string>860 Pearl st</string>
+		<key>phone</key>
+		<string>1-541686-1114</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Appetizer</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Kimchee Pancake</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Veggie Pancake</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Pot Stickers</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Vegetable Pot Stickers</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mung Bean Pancake</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Salad Rolls</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Scallion Seafood Pancake</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>18</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chap Chae</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Korean Rolls Gim Bap</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<integer>10</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Yammy Tempura</string>
+						<key>letter</key>
+						<string>Y</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Korean Meat Jun</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Rice Cake</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Noodle Bowl Soups</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Cham Poeng</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>17</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Healthy Pho</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<integer>11</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Seafood Soup</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>15</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Beef Bone Soup</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Den-Jang Gi Gae</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Soft Tofu Hot Pot</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Kim Chee Ji Gae</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hot Pot Beef Bogogi Soup</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<integer>16</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Kal-Bee Tang</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<integer>17</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Yuk Gae Tang</string>
+						<key>letter</key>
+						<string>Y</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Rib Viggie Soup</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<integer>17</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Noodle Bowl Entrees</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Bi Bim Bop</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pot Bi Bim Bop</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>17</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Katsu Rice Bowl</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Viggie Soba</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chajang Myun</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Gluten Free Rice Noodle</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Jin</string>
+						<key>letter</key>
+						<string>J</string>
+						<key>cost</key>
+						<integer>8</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shin</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>8</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Korean Meat Special</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Bulgogi Beef</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>22</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Bulgogi Chicken</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Bulgogi Spicy Chicken</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Bulgogi Spicy Pork</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Squid</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Kal-Bee</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Bulgogi O-Sam</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>25</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Casseroles</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Bu Dae Ji Gae</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>35</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Seafood Hot Pot</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>40</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pot Sticker Hot Pot Soup</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>35</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Kimchi Hot Pot</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<integer>35</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chitterling Hot Pot Soup</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>35</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Bulgogi Hot Pot</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>40</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Beverages</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Bubble Tea</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>4.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hot Persimmon Tea</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>3.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Asian Iced Tea</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<real>3.5</real>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.050066</real>
+		<key>longtitude</key>
+		<real>-123.089837</real>
+		<key>image</key>
+		<string>541 Sushi Bar 1</string>
+		<key>restaurant_category</key>
+		<string>Sushi/Japanese</string>
+		<key>name</key>
+		<string>541 Sushi Bar
+</string>
+		<key>address</key>
+		<string>898 Pearl St
+</string>
+		<key>phone</key>
+		<string>1-541654-8171</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Appetizer</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Gyoza</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Edamame</string>
+						<key>letter</key>
+						<string>E</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Egg Roll</string>
+						<key>letter</key>
+						<string>E</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Katsu</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Calamari</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Baked Mussel</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sesame Ball</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Gukan</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Crab Salad Gunkan</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tuna Salad Gunkan</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Squid Salad Gunkan</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Seaweed Salad Gunkan</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tobiko Gunkan</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Masago Gunkan</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Inari Gunkan</string>
+						<key>letter</key>
+						<string>I</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Creamy Scallop Gunkan</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Ikura Gunkan</string>
+						<key>letter</key>
+						<string>I</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Roll</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Salmon Roll</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tuna Roll</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Avocado Roll</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Cucumber Roll</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Tuna Roll</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Asparagus Roll</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Califonia Roll</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Vegas Roll</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Oregon Roll</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Rainbow Roll</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tataki Roll</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hawaiian Roll</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Rocky Roll</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>House Roll</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Philadelphia</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Ichi Roll</string>
+						<key>letter</key>
+						<string>I</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Dragon Roll</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>French Roll</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>U Of O Roll</string>
+						<key>letter</key>
+						<string>U</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Nigiri</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Salmon</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shrimp</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mackerel</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Red Snapper</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Crab</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Squid</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sweet Egg Custard</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Tempura</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Shrimp Tempura</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mixed Viggie Tempura</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shrimp &amp; Viggie Tempura</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.050099</real>
+		<key>longtitude</key>
+		<real>-123.096014</real>
+		<key>image</key>
+		<string>Tonkatsu &amp; Sushi 1</string>
+		<key>restaurant_category</key>
+		<string>Sushi/Japanese</string>
+		<key>name</key>
+		<string>Tonkatsu &amp; Sushi
+</string>
+		<key>address</key>
+		<string>30 E Broadway
+</string>
+		<key>phone</key>
+		<string>1-458205-8076</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Appetizer</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Edamame</string>
+						<key>letter</key>
+						<string>E</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pot Stickers</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>6.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Egg Roll</string>
+						<key>letter</key>
+						<string>E</string>
+						<key>cost</key>
+						<real>6.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sunomono Salad</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>6.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Seaweed Salad</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>8</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Soft Shell Crab</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>8</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tori Karaage</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>8</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Stuffed Jalapenos</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>9</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sweet And Sour Chicken</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Seafood And Green Onion Pancake</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Kimchi And Green Onion Pancake</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Smoked Salmon Salad</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Tempura</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Veggie</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<real>7.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sweet Potato</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>7.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shrimp</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>10</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Shrimp &amp; Veggie</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Nigiri</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Ama Ebi</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<real>7.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Creamy Scrallop</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>5.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Ebi</string>
+						<key>letter</key>
+						<string>E</string>
+						<key>cost</key>
+						<real>5.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Escolar</string>
+						<key>letter</key>
+						<string>E</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hamachi</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>5.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hokigai</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>5.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Ika</string>
+						<key>letter</key>
+						<string>I</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Ikura</string>
+						<key>letter</key>
+						<string>I</string>
+						<key>cost</key>
+						<real>5.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Inari</string>
+						<key>letter</key>
+						<string>I</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Kani</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<real>6.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Maguro</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>6.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Masago</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Saba</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sake</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>5.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tai</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tako</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tamago</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tobiko</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Unagi</string>
+						<key>letter</key>
+						<string>U</string>
+						<key>cost</key>
+						<real>6.5</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Sushi Roll</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Avokyu</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Califonia</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>6.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Suoer California Roll</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>7.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>San Francisco</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>6.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mckenzie</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>7.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Rock N Roll</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<real>7.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Paradise</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>8.75</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Udon</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Classic Udon</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>9.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Oden</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<integer>10</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tempura Shrimp Udon</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>11</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Nabeyaki</string>
+						<key>letter</key>
+						<string>N</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sukiyaki</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.051868</real>
+		<key>longtitude</key>
+		<real>-123.092343</real>
+		<key>image</key>
+		<string>Chaiyo Thaifood Truck 1</string>
+		<key>restaurant_category</key>
+		<string>Thai</string>
+		<key>name</key>
+		<string>Chaiyo Thaifood Truck
+</string>
+		<key>address</key>
+		<string>44 E 7th Ave
+</string>
+		<key>phone</key>
+		<string>1-541206-0934</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>All Dishes</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Yellow Curry</string>
+						<key>letter</key>
+						<string>Y</string>
+						<key>cost</key>
+						<real>9.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Green Curry</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>9.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Panang Curry</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>9.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pad Thai</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>9.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fried Rice with Fried Chicken</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>9.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Drunken Noodles</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>9.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Bamboo</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>9.75</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Stir Fry</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Pad Ga Prau</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pad Ped</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pad Prik</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pad Prink Khing</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pad Him Ma Parn</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pad Ruam Mit</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Garlic Pork Short Ribs</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<integer>15</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pad Gra Tiem</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mango Stir Fry</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>15</integer>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.050033</real>
+		<key>longtitude</key>
+		<real>-123.090398</real>
+		<key>image</key>
+		<string>Bon Mi 1</string>
+		<key>restaurant_category</key>
+		<string>Sandwiches &amp; Subs</string>
+		<key>name</key>
+		<string>Bon Mi</string>
+		<key>address</key>
+		<string>153 E Broadway
+</string>
+		<key>phone</key>
+		<string>1-541505-9349</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Specials</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Pork Egg Rolls</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>6.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Veggie Egg Rolls</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<real>6.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Salad Roll</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>5.45</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fried Rice</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<integer>9</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Kid&apos;s Meal</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<real>5.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Spinach Salad</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>10.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spicy Summer Salad</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>7.45</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Banh Mi Sandwiches</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Red Hot Pork Banh Mi</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<real>9.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Pork Banh Mi</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>9.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Banh Mi</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>9.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tofu Banh Mi</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>9.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Beef Banh Mi</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>9.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Red Hot Chicken Banh Mi</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<real>9.5</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Beverages</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>VietNamese Coffee</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<real>4.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hot Tea</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>2.45</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Iced Tea</string>
+						<key>letter</key>
+						<string>I</string>
+						<key>cost</key>
+						<real>2.45</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Gingerade</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<integer>4</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Thai Iced Tea</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>4</integer>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.058552</real>
+		<key>longtitude</key>
+		<real>-123.103782</real>
+		<key>image</key>
+		<string>Finnis Fine Foods 1</string>
+		<key>restaurant_category</key>
+		<string>Sandwiches &amp; Subs</string>
+		<key>name</key>
+		<string>Finnis Fine Foods
+</string>
+		<key>address</key>
+		<string>110 Madison st
+</string>
+		<key>phone</key>
+		<string>1-503791-5581</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Sandgich &amp; Pasta</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Italian Beef Sangwich</string>
+						<key>letter</key>
+						<string>I</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sausage Sangwich</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>11.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Meatball Sangwich</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>11</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spaghetti Marinara</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>10.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fettuccine Alfredo</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<integer>11</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Penne Arrabiata</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Grouppo Plates</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Cheesy Bread</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>6.25</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fritto Provolone</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<integer>11</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Finni&apos;s Flatbread</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<integer>11</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Bowl Of Meatballs</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sausage Stuffed Mushrooms</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>11</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Soup &amp; Salad</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Zia&apos;s Minestrone</string>
+						<key>letter</key>
+						<string>Z</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Boston Style Clam Chowder</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>House Salad</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Sides</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Meatballs</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>4</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sausage</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>4</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Can Of Soda</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>2</integer>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.051103</real>
+		<key>longtitude</key>
+		<real>-123.105421</real>
+		<key>image</key>
+		<string>Falling Sky Delicatessen 1</string>
+		<key>restaurant_category</key>
+		<string>Sandwiches &amp; Subs</string>
+		<key>name</key>
+		<string>Falling Sky Delicatessen
+</string>
+		<key>address</key>
+		<string>790 Blair Blvd
+</string>
+		<key>phone</key>
+		<string>1-541653-9167</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Snacks</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Pickle Plate</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Cheese Fries</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>House Pretzel Sticks</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Potato-Zucchini Latkes</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>One Reuben Slider</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Two Reuben Sliders</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>11</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Deli Plates</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Roasted Beet And Quinoa Plate</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tabbouleh And Wild Salmon Plate</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Smoked Pastrami Hash Plate</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Sandwiches</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Turkey Pastrami Sandwich</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Beef Brisket Pastrami Sandwich</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Corned Beef Sandwich</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>13.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Lamb Pastrami Sandwich</string>
+						<key>letter</key>
+						<string>L</string>
+						<key>cost</key>
+						<real>14.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>The Ultimate Deli Burger</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Jefferson Westside Rachel Sandwich</string>
+						<key>letter</key>
+						<string>J</string>
+						<key>cost</key>
+						<real>14.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Blair Blvd Burger</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>13.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Summer Veggie Burger</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>12</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Smoked Portobello Reuben</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>13.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Wild Salmon Sando</string>
+						<key>letter</key>
+						<string>W</string>
+						<key>cost</key>
+						<integer>14</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Kid&apos;s Menu</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Happy Burger</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Veggie Burger</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Grilled Cheese</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Kosher Hot Dog</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Kid&apos;s Chicken And Cheddar Slider</string>
+						<key>letter</key>
+						<string>K</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.040184</real>
+		<key>longtitude</key>
+		<real>-123.127144</real>
+		<key>image</key>
+		<string>Albee&apos;s NY Gyros Downtown 1</string>
+		<key>restaurant_category</key>
+		<string>Hot Dog &amp; Sausage</string>
+		<key>name</key>
+		<string>Albee&apos;s NY Gyros Downtown</string>
+		<key>address</key>
+		<string>391 W 11th</string>
+		<key>phone</key>
+		<string>1-541214-8099</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Salads</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>The Original Gyro Salad</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>12.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Falafel Salad</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>12.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spanakopita Salad</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>10.25</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Greek Salad</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>8.949999999999999</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Pitas</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Falafel Gyro</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>10.25</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hummus Gryo</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>10.25</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Albee&apos;s Original Beef &amp; Lamb Gyro</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<real>10.25</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Hummus Plate</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<integer>13</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Spanakopita</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>6.5</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Rice Plates</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Gyro Rice Plate - Regular</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>14.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Falafel Rice Platter - Regular</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>14.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Gyro Rice Plate - Junior</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>10.4</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Falafel Rice Plate - Junior</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>10.4</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Sides</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Dolma</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>3.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Falafel Chips</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>4.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Baklav</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>4.25</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Humus Bowl</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Slide of Rice</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>3</real>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.100821</real>
+		<key>longtitude</key>
+		<real>-123.129814</real>
+		<key>image</key>
+		<string>Wayback Burgers 1</string>
+		<key>restaurant_category</key>
+		<string>Hot Dog &amp; Sausage</string>
+		<key>name</key>
+		<string>Wayback Burgers</string>
+		<key>address</key>
+		<string>45 Division Ave</string>
+		<key>phone</key>
+		<string>1-541654-5293</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Signature Burgers</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Cheeesy</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>9.09</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Double Bacon</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>10.39</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Philly</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>8.44</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Rodeo</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<real>8.83</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chipotle</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>8.44</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Patty Melt</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<real>8.84</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Sandwiches &amp; More</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Grilled Chicken</string>
+						<key>letter</key>
+						<string>G</string>
+						<key>cost</key>
+						<real>6.95</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Buffalo Chicken</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>6.49</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Tenders</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>6.49</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Veggie Burger</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<real>7.53</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>WB Cod</string>
+						<key>letter</key>
+						<string>W</string>
+						<key>cost</key>
+						<real>8.44</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Wayback Dog</string>
+						<key>letter</key>
+						<string>W</string>
+						<key>cost</key>
+						<real>6.23</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chili Cheese Dog</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>6.23</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Classic Dog</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>4.67</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Delicious Sides</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Mac &amp; Cheese Bites</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>5.19</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Irish Nachos</string>
+						<key>letter</key>
+						<string>I</string>
+						<key>cost</key>
+						<real>7.79</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>House-Made Chips - Regular</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>2.72</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>House-Made Chips - BBQ</string>
+						<key>letter</key>
+						<string>H</string>
+						<key>cost</key>
+						<real>2.71</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Onion Rings</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<real>5.19</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>O-Fries</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<real>4.28</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chili Cheese Fries</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>7.79</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Cheese Fries</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>5.84</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>French Fries</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<real>4.8</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Dipping Sauces</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>0.52</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Milkshakes</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Vanilla</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<real>3.19</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chocolate</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>4.45</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Strawberry</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>3.19</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Black &amp; White</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>5.84</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Cafe Mocha</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>5.84</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Oreo Mud Pie</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<real>5.84</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Oreo Mint</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<real>4.45</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chocolate Banana</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>4.45</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Strawberry Banana</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>4.49</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Cookies&apos;N Cream</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>5.84</real>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.044505</real>
+		<key>longtitude</key>
+		<real>-123.074002</real>
+		<key>image</key>
+		<string>Joe&apos;s Burgers 1</string>
+		<key>restaurant_category</key>
+		<string>Hot Dog &amp; Sausage</string>
+		<key>name</key>
+		<string>Joe&apos;s Burgers</string>
+		<key>address</key>
+		<string>E 13th Ave</string>
+		<key>phone</key>
+		<string>1-541346-9574</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Burgers</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Burger(Singer)</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>6</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Burger(Double)</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Classic Cheese Burger(Single)</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>6.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Classic Cheese Burger(Double)</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>7.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chili Cheese Burger(Single)</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>6.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chili Cheese Burger(Double)</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>7.75</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Specialty Burgers</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Cowboy Joe(Single)</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>7.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Cowboy Joe(Double)</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>8.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mushroom Swiss(Single)</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>7.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mushroom Swiss(Double)</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<real>8.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Big Kahuna(Single)</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>7.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Big Kahuna(Double)</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>8.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Black &amp; Blue(Single)</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>7.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Black &amp; Blue(Double)</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>8.75</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Notta Burger</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Spicy Crispy Burger</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<integer>8</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>BLT</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<real>6.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Fish Sandwich</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<integer>8</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Tender Basket</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>8</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>The Lighter Side</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Classic Lettuce Wrap</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>6.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Turkey Burger</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<real>7.25</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Veggie Burger</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<real>7.25</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Specialty Soup</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>3.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Veggie Chili</string>
+						<key>letter</key>
+						<string>V</string>
+						<key>cost</key>
+						<real>4.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Oreo Mud Pie</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<real>5.84</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Oreo Mint</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<real>4.45</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chocolate Banana</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>4.45</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Strawberry Banana</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>4.49</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Cookies&apos;N Cream</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>5.84</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Dogs</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>All Beef Hot Dog</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<real>4.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chili Cheese Dog</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Diablo Dog</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<real>5.75</real>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Fries &amp; Rings</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Fries</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Tots</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sweet Potato Fries</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>3.75</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chili Cheese Fries</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<real>4.25</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Onion Rings</string>
+						<key>letter</key>
+						<string>O</string>
+						<key>cost</key>
+						<integer>4</integer>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>44.057819</real>
+		<key>longtitude</key>
+		<real>-123.159949</real>
+		<key>image</key>
+		<string>Foodtopia 1</string>
+		<key>restaurant_category</key>
+		<string>Hot Dog &amp; Sausage</string>
+		<key>name</key>
+		<string>Foodtopia</string>
+		<key>address</key>
+		<string>3900 West 1st Avenue</string>
+		<key>phone</key>
+		<string>1-541360-9600</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>Entrees</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>The Quintessential Burger</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>8</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>The Ultimate Chicken</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>8</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>The Veggie Philly</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>The Big Cheese</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>4</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>The Terrific Tenders Basket</string>
+						<key>letter</key>
+						<string>T</string>
+						<key>cost</key>
+						<integer>7</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Perfect Polish</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>4</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Sides</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>French Fries</string>
+						<key>letter</key>
+						<string>F</string>
+						<key>cost</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mozzarella Sticks</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Chicken Tenders</string>
+						<key>letter</key>
+						<string>C</string>
+						<key>cost</key>
+						<integer>5</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Assorted Potato Chips</string>
+						<key>letter</key>
+						<string>A</string>
+						<key>cost</key>
+						<integer>1</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>category</key>
+				<string>Beverages</string>
+				<key>name_category</key>
+				<array>
+					<dict>
+						<key>food</key>
+						<string>Pepsi</string>
+						<key>letter</key>
+						<string>P</string>
+						<key>cost</key>
+						<integer>1</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Diet Pepsi</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<integer>1</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mountain Dew</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>1</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Mist Twist</string>
+						<key>letter</key>
+						<string>M</string>
+						<key>cost</key>
+						<integer>1</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Dr.Pepper</string>
+						<key>letter</key>
+						<string>D</string>
+						<key>cost</key>
+						<integer>1</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Root Beer</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<integer>1</integer>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Regular Rockstar Energy Drink</string>
+						<key>letter</key>
+						<string>R</string>
+						<key>cost</key>
+						<real>2.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Sugar Free RockStar Energy Drink</string>
+						<key>letter</key>
+						<string>S</string>
+						<key>cost</key>
+						<real>2.5</real>
+					</dict>
+					<dict>
+						<key>food</key>
+						<string>Bottled Water</string>
+						<key>letter</key>
+						<string>B</string>
+						<key>cost</key>
+						<integer>1</integer>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
