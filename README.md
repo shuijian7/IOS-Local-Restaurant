@@ -7,9 +7,9 @@
   * UIKit:
     * UINavigation Controller and UIScrollView
     * UITableView and UICollectionView implementaion with XIB cell
-    * UIAlertController, UIImagePickerController and popoverPresentationController
+    * UIAlertController, UIImagePickerController and UIpopoverPresentationController
     * UISearchBar and UINavigationBar
-    * UILayOutRestrain for each view
+    * UILayoutConstrain for each view
    
   * AppKit:
     * NotificationCenter Operation for Keyboard show and hide
