@@ -19,21 +19,15 @@ class MenuView : UIViewController,UICollectionViewDelegate, UICollectionViewData
         SearchBar.delegate = self
         SearchBar.returnKeyType = UIReturnKeyType.done
         SearchBar.accessibilityIdentifier = "search"
-        let willShowObserverToken = NotificationCenter.default.addObserver(forName: .UIKeyboardWillShow, object: nil, queue: OperationQueue.main) { [unowned self] in
-            self.adjustSafeArea(forWillShowKeyboardNotification: $0)
-        }
-        let willHideObserverToken = NotificationCenter.default.addObserver(forName: .UIKeyboardWillHide, object: nil, queue: OperationQueue.main) { [unowned self] in
-            self.adjustSafeArea(forWillHideKeyboardNotification: $0)
-        }
-        observerTokens += [willShowObserverToken, willHideObserverToken]
+        NotificationCenter.default.addObserver(self, selector: #selector(keyboardWillShow), name: .UIKeyboardWillShow, object: nil)
+        NotificationCenter.default.addObserver(self, selector: #selector(keyboardWillHide), name: .UIKeyboardWillHide, object: nil)
         
         
     }
     //MARK: Deinitialization
     deinit {
-        for observerToken in observerTokens {
-            NotificationCenter.default.removeObserver(observerToken)
-        }
+        NotificationCenter.default.removeObserver(self,name:NSNotification.Name.UIKeyboardWillShow,object:nil)
+        NotificationCenter.default.removeObserver(self,name:NSNotification.Name.UIKeyboardWillHide,object:nil)
     }
     
     ///Mark: CollectionView
@@ -103,6 +97,10 @@ class MenuView : UIViewController,UICollectionViewDelegate, UICollectionViewData
         
         return result_menu
     }
+    @objc func keyboardWillShow(notification: NSNotification) {}
+    
+    @objc func keyboardWillHide(notification: NSNotification) {}
+    
     
     
     //MARK : Properties(coredata, searchBar, Keyboard)
@@ -112,7 +110,6 @@ class MenuView : UIViewController,UICollectionViewDelegate, UICollectionViewData
     var isSearching = false
     
     // MARK: Properties (Private)
-    private var observerTokens = Array<Any>()
     private var colorCell : Array<UIColor> = [UIColor.blue,UIColor.brown,UIColor.red,UIColor.green,UIColor.darkGray,UIColor.orange]
     
     // MARK: Properties (IBOutlet)

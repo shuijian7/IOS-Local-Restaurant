@@ -18,20 +18,14 @@ class loginpageView : UIViewController{
     // MARK: View Life Cycle
     override func viewDidLoad() {
         super.viewDidLoad()
-        let willShowObserverToken = NotificationCenter.default.addObserver(forName: .UIKeyboardWillShow, object: nil, queue: OperationQueue.main) { [unowned self] in
-            self.adjustSafeArea(forWillShowKeyboardNotification: $0)
-        }
-        let willHideObserverToken = NotificationCenter.default.addObserver(forName: .UIKeyboardWillHide, object: nil, queue: OperationQueue.main) { [unowned self] in
-            self.adjustSafeArea(forWillHideKeyboardNotification: $0)
-        }
-        observerTokens += [willShowObserverToken, willHideObserverToken]
+        NotificationCenter.default.addObserver(self, selector: #selector(keyboardWillShow), name: .UIKeyboardWillShow, object: nil)
+        NotificationCenter.default.addObserver(self, selector: #selector(keyboardWillHide), name: .UIKeyboardWillHide, object: nil)
         hideKeyboard()
     }
     // MARK: Deinitialization
     deinit {
-        for observerToken in observerTokens {
-            NotificationCenter.default.removeObserver(observerToken)
-        }
+        NotificationCenter.default.removeObserver(self,name:NSNotification.Name.UIKeyboardWillShow,object:nil)
+        NotificationCenter.default.removeObserver(self,name:NSNotification.Name.UIKeyboardWillHide,object:nil)
     }
 
     ///Mark: Way to avoiding the warning TabBarController is not on Window by override preparing to specific viewController
@@ -86,6 +80,10 @@ class loginpageView : UIViewController{
     }
     
 
+    @objc func keyboardWillShow(notification: NSNotification) {}
+    
+    @objc func keyboardWillHide(notification: NSNotification) {}
+    
     private var observerTokens = Array<Any>()
     
     
