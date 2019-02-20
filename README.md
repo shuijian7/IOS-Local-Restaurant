@@ -7,18 +7,32 @@
   * UIKit:
     * UINavigation Controller and UIScrollView
     * UITableView and UICollectionView implementaion with XIB cell
+    * UIAlertController, UIImagePickerController and popoverPresentationController
     * UISearchBar and UINavigationBar
+    * UILayOutRestrain for each view
    
   * AppKit:
     * NotificationCenter Operation for Keyboard show and hide
-    * Gesture for selfie, textfield in registration page.
+    * User Interactions as Gesture for selfie, textfield in registration page.
+    * Graphics, Drawing, Color, and Printing like CGRect and color modules
     * IBOut and IBAction 
+    * ...
+    
 
+  * CoreData:
+    * Import NSFetchedResultsController and NSPersistentContainer
+    * Create Plist for saving restaurant data
+    * Set static val for class for Other View visit the function to get data saved in Plist
+    
   * CallKit and MapKit:
     * Phone call and GPS location allowed
   
   * Firebase Kit
     * Auth
+      * Log in, Register and sign out
+    * Database
+      * FireBase Database extract or visit comments.
+    
  
 ## Starting Page
 
