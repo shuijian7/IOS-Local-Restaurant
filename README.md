@@ -4,35 +4,35 @@ Developing an IOS App which allows live communication among people who registere
 
 ### Starting Page
 
-<img src="picture/WechatIMG6.jpeg" width = "50" />
+<img src="picture/WechatIMG5.jpeg" width = "150" />
 
 * starting page follow by log in system
 
 ### User System
 
-![image](picture/WechatIMG6.jpeg){:height="50%" width="50%"}
+<img src="picture/WechatIMG6.jpeg" width = "150" />
 
 * Log in
 
-![image](picture/WechatIMG7.jpeg){:height="50%" width="50%"}
+<img src="picture/WechatIMG7.jpeg" width = "150" />
 
 * Register
 
-![image](picture/WechatIMG9.jpeg){:height="50%" width="50%"}
+<img src="picture/WechatIMG9.jpeg" width = "150" />
 
 * User Account management system
 
 ### Restuarnt 
 
-![image](picture/WechatIMG8.jpeg){:height="50%" width="50%"}
+<img src="picture/WechatIMG8.jpeg" width = "150" />
 
 * Category for different types of Restaurant and SearchBar Supported
 
-![image](picture/WechatIMG10.jpeg){:height="50%" width="50%"}
+<img src="picture/WechatIMG10.jpeg" width = "150" />
 
 * Specific Restaurant Informations
 
-![image](picture/WechatIMG11.jpeg){:height="50%" width="50%"}
+<img src="picture/WechatIMG11.jpeg" width = "150" />
 
 * Dish name and price indicated
 
@@ -40,5 +40,5 @@ Developing an IOS App which allows live communication among people who registere
 
 * My App support live communication among people who wish to rate the restaurant.
 
-![image](picture/WechatIMG12.jpeg){:height="50%" width="50%"}
+<img src="picture/WechatIMG12.jpeg" width = "150" />
 
