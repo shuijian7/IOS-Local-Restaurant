@@ -1,13 +1,24 @@
 # IOS-Local-Restaurant
 
-* This APP Built by Swift, It support basic UiKit module and UI function of:
-  * TableView, CollectionVIew implementaion with XIB cell
-  * SearchBar, NavigationBar implementaion
-  * IBOut and IBAction 
-  * NotificationCenter Operation
+* This APP Built by Swift, It support basic module in App Frameworks:
+
+  * Foundation
   
-* It also support modules of Firebase library:
-  * Auth
+  * UIKit:
+   * UINavigation Controller and UIScrollView
+   * UITableView and UICollectionView implementaion with XIB cell
+   * UISearchBar and UINavigationBar
+   
+  * AppKit:
+   * NotificationCenter Operation for Keyboard show and hide
+   * Gesture for selfie, textfield in registration page.
+   * IBOut and IBAction 
+
+  * CallKit and MapKit:
+   * Phone call and GPS location allowed
+  
+  * Firebase Kit
+   * Auth
  
 ## Starting Page
 
