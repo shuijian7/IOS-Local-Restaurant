@@ -5,20 +5,20 @@
   * Foundation
   
   * UIKit:
-   * UINavigation Controller and UIScrollView
-   * UITableView and UICollectionView implementaion with XIB cell
-   * UISearchBar and UINavigationBar
+    * UINavigation Controller and UIScrollView
+    * UITableView and UICollectionView implementaion with XIB cell
+    * UISearchBar and UINavigationBar
    
   * AppKit:
-   * NotificationCenter Operation for Keyboard show and hide
-   * Gesture for selfie, textfield in registration page.
-   * IBOut and IBAction 
+    * NotificationCenter Operation for Keyboard show and hide
+    * Gesture for selfie, textfield in registration page.
+    * IBOut and IBAction 
 
   * CallKit and MapKit:
-   * Phone call and GPS location allowed
+    * Phone call and GPS location allowed
   
   * Firebase Kit
-   * Auth
+    * Auth
  
 ## Starting Page
 
