@@ -1,5 +1,14 @@
 # IOS-Local-Restaurant
 
+* This APP Built by Swift, It support basic UiKit module and UI function of:
+  * TableView, CollectionVIew implementaion with XIB cell
+  * SearchBar, NavigationBar implementaion
+  * IBOut and IBAction 
+  * NotificationCenter Operation
+  
+* It also support modules of Firebase library:
+  * Auth
+ 
 ## Starting Page
 
 <img src="picture/WechatIMG5.jpeg" width = "150" />
