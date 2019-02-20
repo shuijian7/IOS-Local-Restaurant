@@ -57,5 +57,9 @@
 
 <img src="picture/WechatIMG12.jpeg" width = "200" />
 
-* Support live communication among people who wish to rate the restaurant. Backend database is Firebase
+* Support live communication among people who wish to rate the restaurant.
+
+* each comment has privacy key which only user himself can visit.
+
+* Support edit function to revise the posted comment
 
