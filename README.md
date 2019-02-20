@@ -1,7 +1,5 @@
 # IOS-Local-Restaurant
 
-Developing an IOS App which allows live communication among people who registered a account in the Firebase database. 
-
 ### Starting Page
 
 <img src="picture/WechatIMG5.jpeg" width = "150" />
