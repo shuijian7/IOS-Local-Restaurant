@@ -4,7 +4,7 @@ Developing an IOS App which allows live communication among people who registere
 
 ### Starting Page
 
-![image](picture/WechatIMG5.jpeg){:height="50%" width="50%"}
+![image](picture/WechatIMG5.jpeg){:height="100" width="100"}
 
 * starting page follow by log in system
 
